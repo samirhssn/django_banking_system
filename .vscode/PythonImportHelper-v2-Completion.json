@@ -1,0 +1,1435 @@
+[
+    {
+        "label": "accounts.managers",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "accounts.managers",
+        "description": "accounts.managers",
+        "detail": "accounts.managers",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "django.core.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "MinValueValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "MaxValueValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "transaction",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.contrib.auth.base_user",
+        "description": "django.contrib.auth.base_user",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.base_user",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "RedirectView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "absolute_import",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "Celery",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "crontab",
+        "importPath": "celery.schedules",
+        "description": "celery.schedules",
+        "isExtraImport": true,
+        "detail": "celery.schedules",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "HomeView",
+        "importPath": "core.views",
+        "description": "core.views",
+        "isExtraImport": true,
+        "detail": "core.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "management",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {}
+    },
+    {
+        "label": "Transaction",
+        "importPath": "transactions.models",
+        "description": "transactions.models",
+        "isExtraImport": true,
+        "detail": "transactions.models",
+        "documentation": {}
+    },
+    {
+        "label": "Transaction",
+        "importPath": "transactions.models",
+        "description": "transactions.models",
+        "isExtraImport": true,
+        "detail": "transactions.models",
+        "documentation": {}
+    },
+    {
+        "label": "Transaction",
+        "importPath": "transactions.models",
+        "description": "transactions.models",
+        "isExtraImport": true,
+        "detail": "transactions.models",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "UserBankAccount",
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "isExtraImport": true,
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "isExtraImport": true,
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserBankAccount",
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "isExtraImport": true,
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "task",
+        "importPath": "celery.decorators",
+        "description": "celery.decorators",
+        "isExtraImport": true,
+        "detail": "celery.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "INTEREST",
+        "importPath": "transactions.constants",
+        "description": "transactions.constants",
+        "isExtraImport": true,
+        "detail": "transactions.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DEPOSIT",
+        "importPath": "transactions.constants",
+        "description": "transactions.constants",
+        "isExtraImport": true,
+        "detail": "transactions.constants",
+        "documentation": {}
+    },
+    {
+        "label": "WITHDRAWAL",
+        "importPath": "transactions.constants",
+        "description": "transactions.constants",
+        "isExtraImport": true,
+        "detail": "transactions.constants",
+        "documentation": {}
+    },
+    {
+        "label": "relativedelta",
+        "importPath": "dateutil.relativedelta",
+        "description": "dateutil.relativedelta",
+        "isExtraImport": true,
+        "detail": "dateutil.relativedelta",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequiredMixin",
+        "importPath": "django.contrib.auth.mixins",
+        "description": "django.contrib.auth.mixins",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "DepositForm",
+        "importPath": "transactions.forms",
+        "description": "transactions.forms",
+        "isExtraImport": true,
+        "detail": "transactions.forms",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionDateRangeForm",
+        "importPath": "transactions.forms",
+        "description": "transactions.forms",
+        "isExtraImport": true,
+        "detail": "transactions.forms",
+        "documentation": {}
+    },
+    {
+        "label": "WithdrawForm",
+        "importPath": "transactions.forms",
+        "description": "transactions.forms",
+        "isExtraImport": true,
+        "detail": "transactions.forms",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0001_initial",
+        "description": "accounts.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "accounts.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0002_auto_20231101_1308",
+        "description": "accounts.migrations.0002_auto_20231101_1308",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('accounts', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user',\n            name='first_name',\n            field=models.CharField(blank=True, max_length=200, null=True),\n        ),",
+        "detail": "accounts.migrations.0002_auto_20231101_1308",
+        "documentation": {}
+    },
+    {
+        "label": "MyAdmin1",
+        "kind": 6,
+        "importPath": "accounts.admin",
+        "description": "accounts.admin",
+        "peekOfCode": "class MyAdmin1(admin.ModelAdmin):\n    list_display = ('first_name', 'last_name', 'email')\nclass MyAdmin2(admin.ModelAdmin):\n    list_display = ('first_name', 'last_name', 'user')\nclass MyAdmin3(admin.ModelAdmin):\n    list_display = ('first_name', 'last_name', 'account_no')\nadmin.site.register(BankAccountType)\nadmin.site.register(User,MyAdmin1)\nadmin.site.register(UserAddress,MyAdmin2)\nadmin.site.register(UserBankAccount,MyAdmin3)",
+        "detail": "accounts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "MyAdmin2",
+        "kind": 6,
+        "importPath": "accounts.admin",
+        "description": "accounts.admin",
+        "peekOfCode": "class MyAdmin2(admin.ModelAdmin):\n    list_display = ('first_name', 'last_name', 'user')\nclass MyAdmin3(admin.ModelAdmin):\n    list_display = ('first_name', 'last_name', 'account_no')\nadmin.site.register(BankAccountType)\nadmin.site.register(User,MyAdmin1)\nadmin.site.register(UserAddress,MyAdmin2)\nadmin.site.register(UserBankAccount,MyAdmin3)",
+        "detail": "accounts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "MyAdmin3",
+        "kind": 6,
+        "importPath": "accounts.admin",
+        "description": "accounts.admin",
+        "peekOfCode": "class MyAdmin3(admin.ModelAdmin):\n    list_display = ('first_name', 'last_name', 'account_no')\nadmin.site.register(BankAccountType)\nadmin.site.register(User,MyAdmin1)\nadmin.site.register(UserAddress,MyAdmin2)\nadmin.site.register(UserBankAccount,MyAdmin3)",
+        "detail": "accounts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsConfig",
+        "kind": 6,
+        "importPath": "accounts.apps",
+        "description": "accounts.apps",
+        "peekOfCode": "class AccountsConfig(AppConfig):\n    name = 'accounts'",
+        "detail": "accounts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "MALE",
+        "kind": 5,
+        "importPath": "accounts.constants",
+        "description": "accounts.constants",
+        "peekOfCode": "MALE = 'M'\nFEMALE = 'F'\nGENDER_CHOICE = (\n    (MALE, \"Male\"),\n    (FEMALE, \"Female\"),\n)",
+        "detail": "accounts.constants",
+        "documentation": {}
+    },
+    {
+        "label": "FEMALE",
+        "kind": 5,
+        "importPath": "accounts.constants",
+        "description": "accounts.constants",
+        "peekOfCode": "FEMALE = 'F'\nGENDER_CHOICE = (\n    (MALE, \"Male\"),\n    (FEMALE, \"Female\"),\n)",
+        "detail": "accounts.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GENDER_CHOICE",
+        "kind": 5,
+        "importPath": "accounts.constants",
+        "description": "accounts.constants",
+        "peekOfCode": "GENDER_CHOICE = (\n    (MALE, \"Male\"),\n    (FEMALE, \"Female\"),\n)",
+        "detail": "accounts.constants",
+        "documentation": {}
+    },
+    {
+        "label": "UserAddressForm",
+        "kind": 6,
+        "importPath": "accounts.forms",
+        "description": "accounts.forms",
+        "peekOfCode": "class UserAddressForm(forms.ModelForm):\n    class Meta:\n        model = UserAddress\n        fields = [\n            'street_address',\n            'city',\n            'postal_code',\n            'country'\n        ]\n    def __init__(self, *args, **kwargs):",
+        "detail": "accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegistrationForm",
+        "kind": 6,
+        "importPath": "accounts.forms",
+        "description": "accounts.forms",
+        "peekOfCode": "class UserRegistrationForm(UserCreationForm):\n    account_type = forms.ModelChoiceField(\n        queryset=BankAccountType.objects.all()\n    )\n    gender = forms.ChoiceField(choices=GENDER_CHOICE)\n    birth_date = forms.DateField(widget=forms.DateInput(attrs={'type':'date'}))\n    first_name = forms.CharField(widget=forms.TextInput(attrs={'autofocus':'on'}))\n    email = forms.CharField(widget=forms.EmailInput(attrs={'autofocus':'off'}))\n    class Meta:\n        model = User",
+        "detail": "accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserManager",
+        "kind": 6,
+        "importPath": "accounts.managers",
+        "description": "accounts.managers",
+        "peekOfCode": "class UserManager(BaseUserManager):\n    use_in_migrations = True\n    def _create_user(self, email, password, **extra_fields):\n        \"\"\"\n        Create and save a user with the given email, and password.\n        \"\"\"\n        if not email:\n            raise ValueError('The given email must be set')\n        email = self.normalize_email(email)\n        user = self.model(email=email, **extra_fields)",
+        "detail": "accounts.managers",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "peekOfCode": "class User(AbstractUser):\n    username = None\n    email = models.EmailField(unique=True, null=False, blank=False)\n    first_name = models.CharField(max_length=200,blank=True,null=True) \n    last_name = models.CharField(max_length=200,blank=True,null=True) \n    objects = UserManager()\n    USERNAME_FIELD = 'email'\n    REQUIRED_FIELDS = []\n    def __str__(self):\n        return self.email",
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "BankAccountType",
+        "kind": 6,
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "peekOfCode": "class BankAccountType(models.Model):\n    name = models.CharField(max_length=128)\n    maximum_withdrawal_amount = models.DecimalField(\n        decimal_places=2,\n        max_digits=12\n    )\n    annual_interest_rate = models.DecimalField(\n        validators=[MinValueValidator(0), MaxValueValidator(100)],\n        decimal_places=2,\n        max_digits=5,",
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserBankAccount",
+        "kind": 6,
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "peekOfCode": "class UserBankAccount(models.Model):\n    user = models.OneToOneField(\n        User,\n        related_name='account',\n        on_delete=models.CASCADE,\n    )\n    account_type = models.ForeignKey(\n        BankAccountType,\n        related_name='accounts',\n        on_delete=models.CASCADE",
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserAddress",
+        "kind": 6,
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "peekOfCode": "class UserAddress(models.Model):\n    user = models.OneToOneField(\n        User,\n        related_name='address',\n        on_delete=models.CASCADE,\n    )\n    street_address = models.CharField(max_length=512)\n    city = models.CharField(max_length=256)\n    postal_code = models.PositiveIntegerField()\n    country = models.CharField(max_length=256)",
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "accounts.urls",
+        "description": "accounts.urls",
+        "peekOfCode": "app_name = 'accounts'\nurlpatterns = [\n    path(\n        \"login/\", UserLoginView.as_view(),\n        name=\"user_login\"\n    ),\n    path(\n        \"logout/\", LogoutView.as_view(),\n        name=\"user_logout\"\n    ),",
+        "detail": "accounts.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "accounts.urls",
+        "description": "accounts.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\n        \"login/\", UserLoginView.as_view(),\n        name=\"user_login\"\n    ),\n    path(\n        \"logout/\", LogoutView.as_view(),\n        name=\"user_logout\"\n    ),\n    path(",
+        "detail": "accounts.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegistrationView",
+        "kind": 6,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "class UserRegistrationView(TemplateView):\n    model = User\n    form_class = UserRegistrationForm\n    template_name = 'accounts/user_registration.html'\n    def dispatch(self, request, *args, **kwargs):\n        if self.request.user.is_authenticated:\n            return HttpResponseRedirect(\n                reverse_lazy('transactions:transaction_report')\n            )\n        return super().dispatch(request, *args, **kwargs)",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginView",
+        "kind": 6,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "class UserLoginView(LoginView):\n    template_name='accounts/user_login.html'\n    redirect_authenticated_user = False\nclass LogoutView(RedirectView):\n    pattern_name = 'home'\n    def get_redirect_url(self, *args, **kwargs):\n        if self.request.user.is_authenticated:\n            logout(self.request)\n        return super().get_redirect_url(*args, **kwargs)",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "kind": 6,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "class LogoutView(RedirectView):\n    pattern_name = 'home'\n    def get_redirect_url(self, *args, **kwargs):\n        if self.request.user.is_authenticated:\n            logout(self.request)\n        return super().get_redirect_url(*args, **kwargs)",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "User = get_user_model()\nclass UserRegistrationView(TemplateView):\n    model = User\n    form_class = UserRegistrationForm\n    template_name = 'accounts/user_registration.html'\n    def dispatch(self, request, *args, **kwargs):\n        if self.request.user.is_authenticated:\n            return HttpResponseRedirect(\n                reverse_lazy('transactions:transaction_report')\n            )",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "banking_system.asgi",
+        "description": "banking_system.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "banking_system.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "debug_task",
+        "kind": 2,
+        "importPath": "banking_system.celery",
+        "description": "banking_system.celery",
+        "peekOfCode": "def debug_task(self):\n    print('Request: {0!r}'.format(self.request))",
+        "detail": "banking_system.celery",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "banking_system.celery",
+        "description": "banking_system.celery",
+        "peekOfCode": "app = Celery('banking_system')\n# Using a string here means the worker doesn't have to serialize\n# the configuration object to child processes.\n# - namespace='CELERY' means all celery-related configuration keys\n#   should have a `CELERY_` prefix.\napp.config_from_object('django.conf:settings', namespace='CELERY')\n# Load task modules from all registered Django app configs.\napp.autodiscover_tasks()\napp.conf.beat_schedule = {\n    'calculate_interest': {",
+        "detail": "banking_system.celery",
+        "documentation": {}
+    },
+    {
+        "label": "app.conf.beat_schedule",
+        "kind": 5,
+        "importPath": "banking_system.celery",
+        "description": "banking_system.celery",
+        "peekOfCode": "app.conf.beat_schedule = {\n    'calculate_interest': {\n        'task': 'calculate_interest',\n        # http://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html\n        'schedule': crontab(0, 0, day_of_month='1'),\n    }\n}\n@app.task(bind=True)\ndef debug_task(self):\n    print('Request: {0!r}'.format(self.request))",
+        "detail": "banking_system.celery",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve(strict=True).parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'po0172$69b@78ps4v^uhfxu6q--8ko7kpp7rbz420s_3w#sir%'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nLOGIN_REDIRECT_URL = '/transactions/report'\n# Application definition",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "SECRET_KEY = 'po0172$69b@78ps4v^uhfxu6q--8ko7kpp7rbz420s_3w#sir%'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nLOGIN_REDIRECT_URL = '/transactions/report'\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\nLOGIN_REDIRECT_URL = '/transactions/report'\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\nLOGIN_REDIRECT_URL = '/transactions/report'\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.humanize',",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = '/transactions/report'\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.humanize',\n    'django.contrib.staticfiles',",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.humanize',\n    'django.contrib.staticfiles',\n    'django_celery_beat',\n    'accounts',",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'banking_system.urls'",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "ROOT_URLCONF = 'banking_system.urls'\nAUTH_USER_MODEL = 'accounts.User'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / 'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'accounts.User'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / 'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / 'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'banking_system.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Asia/Manila'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_NUMBER_START_FROM = 1000000000\nMINIMUM_DEPOSIT_AMOUNT = 10",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "TIME_ZONE = 'Asia/Manila'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_NUMBER_START_FROM = 1000000000\nMINIMUM_DEPOSIT_AMOUNT = 10\nMINIMUM_WITHDRAWAL_AMOUNT = 10",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_NUMBER_START_FROM = 1000000000\nMINIMUM_DEPOSIT_AMOUNT = 10\nMINIMUM_WITHDRAWAL_AMOUNT = 10\nSTATIC_URL = 'static/'",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_NUMBER_START_FROM = 1000000000\nMINIMUM_DEPOSIT_AMOUNT = 10\nMINIMUM_WITHDRAWAL_AMOUNT = 10\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [ ",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nACCOUNT_NUMBER_START_FROM = 1000000000\nMINIMUM_DEPOSIT_AMOUNT = 10\nMINIMUM_WITHDRAWAL_AMOUNT = 10\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [ \n    BASE_DIR / \"static\",",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nACCOUNT_NUMBER_START_FROM = 1000000000\nMINIMUM_DEPOSIT_AMOUNT = 10\nMINIMUM_WITHDRAWAL_AMOUNT = 10\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [ \n    BASE_DIR / \"static\",\n    ]\n# Celery Settings\nCELERY_BROKER_URL = 'redis://localhost:6379'",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ACCOUNT_NUMBER_START_FROM",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "ACCOUNT_NUMBER_START_FROM = 1000000000\nMINIMUM_DEPOSIT_AMOUNT = 10\nMINIMUM_WITHDRAWAL_AMOUNT = 10\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [ \n    BASE_DIR / \"static\",\n    ]\n# Celery Settings\nCELERY_BROKER_URL = 'redis://localhost:6379'\nCELERY_RESULT_BACKEND = 'redis://localhost:6379'",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MINIMUM_DEPOSIT_AMOUNT",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "MINIMUM_DEPOSIT_AMOUNT = 10\nMINIMUM_WITHDRAWAL_AMOUNT = 10\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [ \n    BASE_DIR / \"static\",\n    ]\n# Celery Settings\nCELERY_BROKER_URL = 'redis://localhost:6379'\nCELERY_RESULT_BACKEND = 'redis://localhost:6379'\nCELERY_ACCEPT_CONTENT = ['application/json']",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MINIMUM_WITHDRAWAL_AMOUNT",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "MINIMUM_WITHDRAWAL_AMOUNT = 10\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [ \n    BASE_DIR / \"static\",\n    ]\n# Celery Settings\nCELERY_BROKER_URL = 'redis://localhost:6379'\nCELERY_RESULT_BACKEND = 'redis://localhost:6379'\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_TASK_SERIALIZER = 'json'",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATICFILES_DIRS = [ \n    BASE_DIR / \"static\",\n    ]\n# Celery Settings\nCELERY_BROKER_URL = 'redis://localhost:6379'\nCELERY_RESULT_BACKEND = 'redis://localhost:6379'\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "STATICFILES_DIRS = [ \n    BASE_DIR / \"static\",\n    ]\n# Celery Settings\nCELERY_BROKER_URL = 'redis://localhost:6379'\nCELERY_RESULT_BACKEND = 'redis://localhost:6379'\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TIMEZONE = TIME_ZONE",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_BROKER_URL",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "CELERY_BROKER_URL = 'redis://localhost:6379'\nCELERY_RESULT_BACKEND = 'redis://localhost:6379'\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TIMEZONE = TIME_ZONE",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_RESULT_BACKEND",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "CELERY_RESULT_BACKEND = 'redis://localhost:6379'\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TIMEZONE = TIME_ZONE",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_ACCEPT_CONTENT",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "CELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TIMEZONE = TIME_ZONE",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_TASK_SERIALIZER",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "CELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TIMEZONE = TIME_ZONE",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_RESULT_SERIALIZER",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "CELERY_RESULT_SERIALIZER = 'json'\nCELERY_TIMEZONE = TIME_ZONE",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_TIMEZONE",
+        "kind": 5,
+        "importPath": "banking_system.settings",
+        "description": "banking_system.settings",
+        "peekOfCode": "CELERY_TIMEZONE = TIME_ZONE",
+        "detail": "banking_system.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "banking_system.urls",
+        "description": "banking_system.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', HomeView.as_view(), name='home'),\n    path('accounts/', include('accounts.urls', namespace='accounts')),\n    path('admin/', admin.site.urls),\n    path(\n        'transactions/',\n        include('transactions.urls', namespace='transactions')\n    )\n]",
+        "detail": "banking_system.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "banking_system.wsgi",
+        "description": "banking_system.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "banking_system.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "CoreConfig",
+        "kind": 6,
+        "importPath": "core.apps",
+        "description": "core.apps",
+        "peekOfCode": "class CoreConfig(AppConfig):\n    name = 'core'",
+        "detail": "core.apps",
+        "documentation": {}
+    },
+    {
+        "label": "HomeView",
+        "kind": 6,
+        "importPath": "core.views",
+        "description": "core.views",
+        "peekOfCode": "class HomeView(TemplateView):\n    template_name = 'core/index.html'",
+        "detail": "core.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "transactions.migrations.0001_initial",
+        "description": "transactions.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('accounts', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Transaction',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "transactions.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "transactions.migrations.0002_transaction_user",
+        "description": "transactions.migrations.0002_transaction_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('transactions', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='transaction',\n            name='user',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL),",
+        "detail": "transactions.migrations.0002_transaction_user",
+        "documentation": {}
+    },
+    {
+        "label": "MyAdmin1",
+        "kind": 6,
+        "importPath": "transactions.admin",
+        "description": "transactions.admin",
+        "peekOfCode": "class MyAdmin1(admin.ModelAdmin):\n    list_display = ('first_name','last_name','account', 'amount', 'balance_after_transaction','transaction_type','timestamp')\nadmin.site.register(Transaction,MyAdmin1)",
+        "detail": "transactions.admin",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionsConfig",
+        "kind": 6,
+        "importPath": "transactions.apps",
+        "description": "transactions.apps",
+        "peekOfCode": "class TransactionsConfig(AppConfig):\n    name = 'transactions'",
+        "detail": "transactions.apps",
+        "documentation": {}
+    },
+    {
+        "label": "DEPOSIT",
+        "kind": 5,
+        "importPath": "transactions.constants",
+        "description": "transactions.constants",
+        "peekOfCode": "DEPOSIT = 1\nWITHDRAWAL = 2\nINTEREST = 3\nTRANSACTION_TYPE_CHOICES = (\n    (DEPOSIT, 'Deposit'),\n    (WITHDRAWAL, 'Withdrawal'),\n    (INTEREST, 'Interest'),\n)",
+        "detail": "transactions.constants",
+        "documentation": {}
+    },
+    {
+        "label": "WITHDRAWAL",
+        "kind": 5,
+        "importPath": "transactions.constants",
+        "description": "transactions.constants",
+        "peekOfCode": "WITHDRAWAL = 2\nINTEREST = 3\nTRANSACTION_TYPE_CHOICES = (\n    (DEPOSIT, 'Deposit'),\n    (WITHDRAWAL, 'Withdrawal'),\n    (INTEREST, 'Interest'),\n)",
+        "detail": "transactions.constants",
+        "documentation": {}
+    },
+    {
+        "label": "INTEREST",
+        "kind": 5,
+        "importPath": "transactions.constants",
+        "description": "transactions.constants",
+        "peekOfCode": "INTEREST = 3\nTRANSACTION_TYPE_CHOICES = (\n    (DEPOSIT, 'Deposit'),\n    (WITHDRAWAL, 'Withdrawal'),\n    (INTEREST, 'Interest'),\n)",
+        "detail": "transactions.constants",
+        "documentation": {}
+    },
+    {
+        "label": "TRANSACTION_TYPE_CHOICES",
+        "kind": 5,
+        "importPath": "transactions.constants",
+        "description": "transactions.constants",
+        "peekOfCode": "TRANSACTION_TYPE_CHOICES = (\n    (DEPOSIT, 'Deposit'),\n    (WITHDRAWAL, 'Withdrawal'),\n    (INTEREST, 'Interest'),\n)",
+        "detail": "transactions.constants",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionForm",
+        "kind": 6,
+        "importPath": "transactions.forms",
+        "description": "transactions.forms",
+        "peekOfCode": "class TransactionForm(forms.ModelForm):\n    class Meta:\n        model = Transaction\n        fields = [\n            'amount',\n            'transaction_type'\n        ]\n    def __init__(self, *args, **kwargs):\n        self.account = kwargs.pop('account')\n        super().__init__(*args, **kwargs)",
+        "detail": "transactions.forms",
+        "documentation": {}
+    },
+    {
+        "label": "DepositForm",
+        "kind": 6,
+        "importPath": "transactions.forms",
+        "description": "transactions.forms",
+        "peekOfCode": "class DepositForm(TransactionForm):\n    def clean_amount(self):\n        min_deposit_amount = settings.MINIMUM_DEPOSIT_AMOUNT\n        amount = self.cleaned_data.get('amount')\n        if amount < min_deposit_amount:\n            raise forms.ValidationError(\n                f'You need to deposit at least {min_deposit_amount} $'\n            )\n        return amount\nclass WithdrawForm(TransactionForm):",
+        "detail": "transactions.forms",
+        "documentation": {}
+    },
+    {
+        "label": "WithdrawForm",
+        "kind": 6,
+        "importPath": "transactions.forms",
+        "description": "transactions.forms",
+        "peekOfCode": "class WithdrawForm(TransactionForm):\n    def clean_amount(self):\n        account = self.account\n        min_withdraw_amount = settings.MINIMUM_WITHDRAWAL_AMOUNT\n        max_withdraw_amount = (\n            account.account_type.maximum_withdrawal_amount\n        )\n        balance = account.balance\n        amount = self.cleaned_data.get('amount')\n        if amount < min_withdraw_amount:",
+        "detail": "transactions.forms",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionDateRangeForm",
+        "kind": 6,
+        "importPath": "transactions.forms",
+        "description": "transactions.forms",
+        "peekOfCode": "class TransactionDateRangeForm(forms.Form):\n    daterange = forms.CharField(required=False)\n    def clean_daterange(self):\n        daterange = self.cleaned_data.get(\"daterange\")\n        print(daterange)\n        try:\n            daterange = daterange.split(' - ')\n            print(daterange)\n            if len(daterange) == 2:\n                for date in daterange:",
+        "detail": "transactions.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Transaction",
+        "kind": 6,
+        "importPath": "transactions.models",
+        "description": "transactions.models",
+        "peekOfCode": "class Transaction(models.Model):\n    account = models.ForeignKey(\n        UserBankAccount,\n        related_name='transactions',\n        on_delete=models.CASCADE,\n    )\n    user = models.ForeignKey(User, on_delete=models.CASCADE, blank=True, null=True)\n    amount = models.DecimalField(\n        decimal_places=2,\n        max_digits=12",
+        "detail": "transactions.models",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_interest",
+        "kind": 2,
+        "importPath": "transactions.tasks",
+        "description": "transactions.tasks",
+        "peekOfCode": "def calculate_interest():\n    accounts = UserBankAccount.objects.filter(\n        balance__gt=0,\n        interest_start_date__gte=timezone.now(),\n        initial_deposit_date__isnull=False\n    ).select_related('account_type')\n    this_month = timezone.now().month\n    created_transactions = []\n    updated_accounts = []\n    for account in accounts:",
+        "detail": "transactions.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "transactions.urls",
+        "description": "transactions.urls",
+        "peekOfCode": "app_name = 'transactions'\nurlpatterns = [\n    path(\"deposit/\", DepositMoneyView.as_view(), name=\"deposit_money\"),\n    path(\"report/\", TransactionRepostView.as_view(), name=\"transaction_report\"),\n    path(\"withdraw/\", WithdrawMoneyView.as_view(), name=\"withdraw_money\"),\n]",
+        "detail": "transactions.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "transactions.urls",
+        "description": "transactions.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"deposit/\", DepositMoneyView.as_view(), name=\"deposit_money\"),\n    path(\"report/\", TransactionRepostView.as_view(), name=\"transaction_report\"),\n    path(\"withdraw/\", WithdrawMoneyView.as_view(), name=\"withdraw_money\"),\n]",
+        "detail": "transactions.urls",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionRepostView",
+        "kind": 6,
+        "importPath": "transactions.views",
+        "description": "transactions.views",
+        "peekOfCode": "class TransactionRepostView(LoginRequiredMixin, ListView):\n    template_name = 'transactions/transaction_report.html'\n    model = Transaction\n    form_data = {}\n    def get(self, request, *args, **kwargs):\n        form = TransactionDateRangeForm(request.GET or None)\n        if form.is_valid():\n            self.form_data = form.cleaned_data\n        return super().get(request, *args, **kwargs)\n    def get_queryset(self):",
+        "detail": "transactions.views",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionCreateMixin",
+        "kind": 6,
+        "importPath": "transactions.views",
+        "description": "transactions.views",
+        "peekOfCode": "class TransactionCreateMixin(LoginRequiredMixin, CreateView):\n    template_name = 'transactions/transaction_form.html'\n    model = Transaction\n    title = ''\n    success_url = reverse_lazy('transactions:transaction_report')\n    def get_form_kwargs(self):\n        kwargs = super().get_form_kwargs()\n        kwargs.update({\n            'account': self.request.user.account\n        })",
+        "detail": "transactions.views",
+        "documentation": {}
+    },
+    {
+        "label": "DepositMoneyView",
+        "kind": 6,
+        "importPath": "transactions.views",
+        "description": "transactions.views",
+        "peekOfCode": "class DepositMoneyView(TransactionCreateMixin):\n    form_class = DepositForm\n    title = 'Deposit Money to Your Account'\n    def get_initial(self):\n        initial = {'transaction_type': DEPOSIT}\n        return initial\n    def form_valid(self, form):\n        amount = form.cleaned_data.get('amount')\n        account = self.request.user.account\n        if not account.initial_deposit_date:",
+        "detail": "transactions.views",
+        "documentation": {}
+    },
+    {
+        "label": "WithdrawMoneyView",
+        "kind": 6,
+        "importPath": "transactions.views",
+        "description": "transactions.views",
+        "peekOfCode": "class WithdrawMoneyView(TransactionCreateMixin):\n    form_class = WithdrawForm\n    title = 'Withdraw Money from Your Account'\n    def get_initial(self):\n        initial = {'transaction_type': WITHDRAWAL}\n        return initial\n    def form_valid(self, form):\n        amount = form.cleaned_data.get('amount')\n        self.request.user.account.balance -= form.cleaned_data.get('amount')\n        self.request.user.account.save(update_fields=['balance'])",
+        "detail": "transactions.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'banking_system.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
